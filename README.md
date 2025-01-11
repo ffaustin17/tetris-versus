@@ -43,7 +43,7 @@ The game includes an AI opponent with:
 
 ### **Desktop**
 - **Arrow Keys**:
-  - `&larr;`: Move tetromino left.
+  - &larr;: Move tetromino left.
   - Right: Move tetromino right.
   - Down: Speed up tetromino descent.
   - Up: Rotate tetromino.
