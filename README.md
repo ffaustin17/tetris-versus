@@ -80,7 +80,7 @@ The game includes an AI opponent with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tetris-game
+   git clone https://github.com/ffaustin17/tetris-game
    ```
 2. Open the `index.html` file in your browser.
 3. Use the controls described above to play.
