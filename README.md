@@ -43,10 +43,10 @@ The game includes an AI opponent with:
 
 ### **Desktop**
 - **Arrow Keys**:
-  - &larr;: Move tetromino left.
-  - Right: Move tetromino right.
-  - Down: Speed up tetromino descent.
-  - Up: Rotate tetromino.
+  - Left ( &larr; ): Move tetromino left.
+  - Right ( &rarr; ): Move tetromino right.
+  - Down ( &darr; ): Speed up tetromino descent.
+  - Up ( &uarr; ): Rotate tetromino.
 - **`J` Key**: Use junk locally to remove lines from the bottom of the grid.
 
 ### **Mobile**
